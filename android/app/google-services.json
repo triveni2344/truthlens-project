@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "388695997065",
+    "project_id": "trustshield-ai-605c6",
+    "storage_bucket": "trustshield-ai-605c6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388695997065:android:4fac78e6b7b49a8d66e458",
+        "android_client_info": {
+          "package_name": "com.example.trustshield"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB4RAEb_D5ZY5c1KKC9CFPAOZRCM3KBOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
